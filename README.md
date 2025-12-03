@@ -16,7 +16,7 @@
 🧠 I’m obsessed with **clean architecture**, **automation**, and **smart UI/UX**.  
 🌱 Currently enhancing my expertise in **Supabase** and **advanced backend orchestration**.  
 📫 Reach me at: [junyappteam@gmail.com](mailto:junyappteam@gmail.com)  
-🌐 Check out my portfolio: [https://junyport.vercel.app](https://junyport.vercel.app)
+🌐 Check out my portfolio: [https://fianko.vercel.app](https://fianko.vercel.app)
 
 ---
 
