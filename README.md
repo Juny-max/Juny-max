@@ -66,7 +66,7 @@
 [![📊 GPA Calculator](https://img.shields.io/badge/📊_GPA_Calculator-00C7B7?style=for-the-badge)](https://v0-gpa-ten.vercel.app/)
 [![🎟️ Even Host](https://img.shields.io/badge/🎟️_Even_Host-5A20CB?style=for-the-badge)](https://even-host.vercel.app/)
 [![🧠 Junify](https://img.shields.io/badge/🧠_Junify-FF6B6B?style=for-the-badge)](https://junify.vercel.app/)
-[![🎧 JunyCast](https://img.shields.io/badge/🎧_JunyCast-1DB954?style=for-the-badge)](https://junycast.created.app/)
+[![🎧 JunyCast](https://img.shields.io/badge/🎧_JunyCast-1DB954?style=for-the-badge)](https://junycast.vercel.app/)
 
 ---
 
