@@ -62,7 +62,7 @@
 ## 🚀 Live Projects
 
 [![🎤 Parlez Vous Studio](https://img.shields.io/badge/🎤_Parlez_Vous_Studio-000000?style=for-the-badge)](https://studio--parlez-vous-6bg5a.us-central1.hosted.app/stories)
-[![🔄 Repeatedly Elastic](https://img.shields.io/badge/🔄_Repeatedly_Elastic-4285F4?style=for-the-badge)](https://preview--repeatedly-elastic-toe.instance.app/)
+[![🔄 Junybase](https://img.shields.io/badge/🔄_junybase-4285F4?style=for-the-badge)](https://junybase.vercel.app/)
 [![📊 GPA Calculator](https://img.shields.io/badge/📊_GPA_Calculator-00C7B7?style=for-the-badge)](https://v0-gpa-ten.vercel.app/)
 [![🎟️ Even Host](https://img.shields.io/badge/🎟️_Even_Host-5A20CB?style=for-the-badge)](https://even-host.vercel.app/)
 [![🧠 Junify](https://img.shields.io/badge/🧠_Junify-FF6B6B?style=for-the-badge)](https://junify.vercel.app/)
