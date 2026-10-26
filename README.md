@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Fianko Owusu Junior</h1>
+<h1 align="center">Hi, I'm JUNY </h1>
 
 <h3 align="center">
   Full-Stack Software Engineer | AI & Automation Developer
